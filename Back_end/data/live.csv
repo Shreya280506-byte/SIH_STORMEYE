@@ -1,0 +1,2 @@
+timestamp,node_id,temperature,pressure,humidity,rainfall_mm,wind_speed
+2025-12-12T18:30:00,node0,28.4,1008,72,0,5
